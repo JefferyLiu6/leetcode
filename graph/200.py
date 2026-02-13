@@ -1,5 +1,5 @@
 from collections import deque
-
+### DFS approach
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
        
