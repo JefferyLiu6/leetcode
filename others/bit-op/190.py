@@ -7,7 +7,7 @@ class Solution:
 
         return res 
     
-
+"Goal: 1011 -> 1101"
 """
 
 << operator:
